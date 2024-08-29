@@ -1,2 +1,3 @@
 Hello this is fileA
 hello file A is text added
+hello what are you doing
